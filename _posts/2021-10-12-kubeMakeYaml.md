@@ -2,7 +2,7 @@
 layout: single
 title:  "Yaml만들고 replicaset에대하여"
 ---
-# 10*12
+# 3일차 공부
 
 `Replication Container`  에서는  pod 여러개에  여러사용자와   로드밸런싱으로  여러개  가능
 
