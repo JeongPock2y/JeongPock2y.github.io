@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "deployment에대한~"
+---
+19일  kube공부
 # 10/20
 
 pod 는 하나의  컨테이너만을 갖지않아도 된다  2개 이상도 가능!
