@@ -1,3 +1,9 @@
+---
+ layout: single
+ title: "namespace 에대해서"
+---
+
+
 # namespace  10/20
 
 **Cluster**
